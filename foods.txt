@@ -1,0 +1,10 @@
+apples
+banana
+carrots
+bread
+pizza
+burger
+pasta
+rice
+chocolate
+salad
