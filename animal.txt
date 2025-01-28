@@ -9,3 +9,4 @@ giraffe
 monkey
 panda
 snake
+whale
